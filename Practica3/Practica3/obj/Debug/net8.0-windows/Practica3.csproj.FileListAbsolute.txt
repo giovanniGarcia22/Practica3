@@ -1,0 +1,16 @@
+C:\Users\giova\source\repos\Practica3\Practica3\bin\Debug\net8.0-windows\Practica3.exe
+C:\Users\giova\source\repos\Practica3\Practica3\bin\Debug\net8.0-windows\Practica3.deps.json
+C:\Users\giova\source\repos\Practica3\Practica3\bin\Debug\net8.0-windows\Practica3.runtimeconfig.json
+C:\Users\giova\source\repos\Practica3\Practica3\bin\Debug\net8.0-windows\Practica3.dll
+C:\Users\giova\source\repos\Practica3\Practica3\bin\Debug\net8.0-windows\Practica3.pdb
+C:\Users\giova\source\repos\Practica3\Practica3\obj\Debug\net8.0-windows\Practica3.Form1.resources
+C:\Users\giova\source\repos\Practica3\Practica3\obj\Debug\net8.0-windows\Practica3.csproj.GenerateResource.cache
+C:\Users\giova\source\repos\Practica3\Practica3\obj\Debug\net8.0-windows\Practica3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giova\source\repos\Practica3\Practica3\obj\Debug\net8.0-windows\Practica3.AssemblyInfoInputs.cache
+C:\Users\giova\source\repos\Practica3\Practica3\obj\Debug\net8.0-windows\Practica3.AssemblyInfo.cs
+C:\Users\giova\source\repos\Practica3\Practica3\obj\Debug\net8.0-windows\Practica3.csproj.CoreCompileInputs.cache
+C:\Users\giova\source\repos\Practica3\Practica3\obj\Debug\net8.0-windows\Practica3.dll
+C:\Users\giova\source\repos\Practica3\Practica3\obj\Debug\net8.0-windows\refint\Practica3.dll
+C:\Users\giova\source\repos\Practica3\Practica3\obj\Debug\net8.0-windows\Practica3.pdb
+C:\Users\giova\source\repos\Practica3\Practica3\obj\Debug\net8.0-windows\Practica3.genruntimeconfig.cache
+C:\Users\giova\source\repos\Practica3\Practica3\obj\Debug\net8.0-windows\ref\Practica3.dll
