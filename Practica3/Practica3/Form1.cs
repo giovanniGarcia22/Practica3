@@ -47,11 +47,9 @@ namespace Practica3
                 }
                 catch (Exception ex)
                 {
-                    MessageBox.Show("Error al abrir el archivo: " + ex.Message);
+                    MessageBox.Show("NO SE PUDO ABRIR EL ARCHIVO \n" + ex.Message);
                 }
             }
-
-
         }
     }
 }
